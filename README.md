@@ -1,4 +1,5 @@
-This fork is based on LibSSH-ESP32 Arduino library
+This fork is based on LibSSH-ESP32 Arduino library.
+
 No modifications are made yet (execpt the addition of these 2 lines to the README).
 
 ESP32 SSH client/server on Arduino
